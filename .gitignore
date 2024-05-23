@@ -57,3 +57,6 @@ mono_crash.*
 # Uncomment if you have such file in your project
 # Exclude all user-specific project settings, which can be generated on each user's machine
 # UserSettings/
+
+# Vuforia package files (adjust the path as needed)
+Packages/com.ptc.vuforia.engine/
