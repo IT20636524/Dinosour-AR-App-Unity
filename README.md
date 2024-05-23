@@ -27,20 +27,21 @@ This project involves building an augmented reality (AR) application using Unity
 
 First, clone the repository to your local machine using Git:
 
-
-git clone https://github.com/IT20636524/Dinosour-AR-App-Unity.git
-cd Dinosaur-AR-App-Unity
+    
+    git clone https://github.com/IT20636524/Dinosour-AR-App-Unity.git
+    cd Dinosaur-AR-App-Unity
 
 ### 2. Install Git LFS
 
 Ensure Git LFS is installed and initialized:
 
-git lfs install
-git lfs pull
+    git lfs install
+    git lfs pull
 
 ### 3. Open the Project in Unity
 
-    Open Unity Hub.
-    Click on the Add button and select the cloned repository folder.
-    Open the project by selecting it from the list in Unity Hub.
+Open Unity Hub.
+Click on the Add button and select the cloned repository folder.
+Open the project by selecting it from the list in Unity Hub.
+
 
